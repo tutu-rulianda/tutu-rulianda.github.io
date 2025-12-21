@@ -1,59 +1,54 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
 <url>
-<loc>https://tuturulianda.com/</loc>
-<lastmod>2025-12-13T14:12:13+00:00</lastmod>
-<priority>1.00</priority>
+  <loc>https://tuturulianda.com/</loc>
+  <lastmod>2025-12-21T14:17:02+00:00</lastmod>
+  <priority>1.00</priority>
 </url>
 <url>
-<loc>https://tuturulianda.com/index.html</loc>
-<lastmod>2025-12-13T14:12:13+00:00</lastmod>
-<priority>0.80</priority>
+  <loc>https://tuturulianda.com/index.html</loc>
+  <lastmod>2025-12-21T14:17:02+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-<loc>https://tuturulianda.com/about.html</loc>
-<lastmod>2025-12-13T14:12:14+00:00</lastmod>
-<priority>0.80</priority>
+  <loc>https://tuturulianda.com/about.html</loc>
+  <lastmod>2025-12-21T14:17:02+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-<loc>https://tuturulianda.com/features.html</loc>
-<lastmod>2025-12-13T14:12:13+00:00</lastmod>
-<priority>0.80</priority>
+  <loc>https://tuturulianda.com/features.html</loc>
+  <lastmod>2025-12-21T14:17:02+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-<loc>https://tuturulianda.com/changelog.html</loc>
-<lastmod>2025-12-13T14:12:14+00:00</lastmod>
-<priority>0.80</priority>
+  <loc>https://tuturulianda.com/changelog.html</loc>
+  <lastmod>2025-12-21T14:17:02+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-<loc>https://tuturulianda.com/citation.html</loc>
-<lastmod>2025-12-13T14:12:14+00:00</lastmod>
-<priority>0.80</priority>
+  <loc>https://tuturulianda.com/citation.html</loc>
+  <lastmod>2025-12-21T14:17:02+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-<loc>https://tuturulianda.com/credits.html</loc>
-<lastmod>2025-12-13T14:12:14+00:00</lastmod>
-<priority>0.80</priority>
+  <loc>https://tuturulianda.com/credits.html</loc>
+  <lastmod>2025-12-21T14:17:02+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-<loc>https://tuturulianda.com/disclaimer.html</loc>
-<lastmod>2025-12-13T14:12:13+00:00</lastmod>
-<priority>0.80</priority>
+  <loc>https://tuturulianda.com/disclaimer.html</loc>
+  <lastmod>2025-12-21T14:17:02+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-<loc>https://tuturulianda.com/policy.html</loc>
-<lastmod>2025-12-13T14:12:13+00:00</lastmod>
-<priority>0.80</priority>
+  <loc>https://tuturulianda.com/policy.html</loc>
+  <lastmod>2025-12-21T14:17:02+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-<loc>https://tuturulianda.com/terms.html</loc>
-<lastmod>2025-12-13T14:12:14+00:00</lastmod>
-<priority>0.80</priority>
-</url>
-<url>
-<loc>https://tuturulianda.com/video.html</loc>
-<lastmod>2025-12-13T14:12:15+00:00</lastmod>
-<priority>0.80</priority>
+  <loc>https://tuturulianda.com/terms.html</loc>
+  <lastmod>2025-12-21T14:17:02+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
 <loc>https://tuturulianda.com/video.html</loc>
@@ -67,7 +62,7 @@ Integra Studio is an advanced facial recognition with accurate analysis and iden
 </video:description>
 <video:content_loc>https://tuturulianda.com/static/Integra-Studio.mp4</video:content_loc>
 <video:duration>584</video:duration>
-<video:publication_date>2025-12-13T14:12:16+00:00</video:publication_date>
+<video:publication_date>2025-12-21T14:17:02+00:00</video:publication_date>
 <video:live>no</video:live>
 </video:video>
 </url>
